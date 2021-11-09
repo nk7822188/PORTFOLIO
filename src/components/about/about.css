@@ -1,0 +1,28 @@
+.about{
+    margin-top: 70px;
+    margin-left: 20px;
+    padding-top: 40px;
+    background-color: blueviolet;
+    width: 1200px;
+    height: 250px;
+    display: flex;
+   
+}
+h1{
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 5px;
+}
+.picture{
+    width: 400px;
+    height: 250px;
+}
+.para{
+    width: 550px;
+    height: 50px; 
+    margin-left: 190px;
+    
+}
+.p{
+    text-align: center;
+}

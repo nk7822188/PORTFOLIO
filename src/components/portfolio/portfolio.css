@@ -1,0 +1,25 @@
+.portfolio{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+     padding-top: 10px;
+     background-color: green;
+     width: 1245px;
+     height: 605px;
+}
+.img1{
+    width: 618px;
+    height: 300px;
+}
+.img2{
+    width: 500px;
+    height: 300px;
+}
+.img3{
+    width: 550px;
+    height: 300px;
+}
+.img4{
+    width: 500px;
+    height: 200px;
+}

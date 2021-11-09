@@ -1,0 +1,17 @@
+.navbar{
+    width: 100%;
+    background-color: greenyellow;
+    flex-direction: row;  
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    position: fixed;
+}
+.navcontent{
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    margin-right: 40px;
+}

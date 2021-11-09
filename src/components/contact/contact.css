@@ -1,0 +1,21 @@
+.conatiner{
+    width: 800px;
+    height: 100px;
+    flex-direction: row;  
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+}
+
+.title{
+    width: 400px;
+    height:50px;
+
+}
+
+.contact{
+    width: 800px;
+    height: 50px; 
+    margin-left: 300px;
+
+}
